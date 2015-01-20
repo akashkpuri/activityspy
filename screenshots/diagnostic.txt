@@ -1,0 +1,13 @@
+01-20 11:24:49.591    1220-1397/system_process I/ActivityManager﹕ START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=akpuri.washington.edu.activityspy/.MainActivity (has extras)} from uid 10008 on display 0
+01-20 11:24:49.620    1220-1587/system_process I/ActivityManager﹕ Start proc akpuri.washington.edu.activityspy for activity akpuri.washington.edu.activityspy/.MainActivity: pid=2177 uid=10058 gids={50058, 9997} abi=x86
+01-20 11:24:50.088    2177-2177/akpuri.washington.edu.activityspy I/MainActivity﹕ onCreate event fired
+01-20 11:24:50.445    1220-1243/system_process I/ActivityManager﹕ Displayed akpuri.washington.edu.activityspy/.MainActivity: +837ms
+01-20 11:25:04.541    2177-2177/akpuri.washington.edu.activityspy E/MainActivity﹕ We’re going down, Captain!
+01-20 11:25:05.768    1220-1489/system_process I/ActivityManager﹕ START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=akpuri.washington.edu.activityspy/.MainActivity (has extras)} from uid 10008 on display 0
+01-20 11:25:05.839    2177-2177/akpuri.washington.edu.activityspy I/MainActivity﹕ onCreate event fired
+01-20 11:25:06.192    1220-1243/system_process I/ActivityManager﹕ Displayed akpuri.washington.edu.activityspy/.MainActivity: +390ms
+01-20 11:25:11.024    2177-2177/akpuri.washington.edu.activityspy E/MainActivity﹕ We’re going down, Captain!
+01-20 11:25:13.819    1220-1586/system_process I/ActivityManager﹕ START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=akpuri.washington.edu.activityspy/.MainActivity (has extras)} from uid 10008 on display 0
+01-20 11:25:13.948    2177-2177/akpuri.washington.edu.activityspy I/MainActivity﹕ onCreate event fired
+01-20 11:25:14.302    1220-1243/system_process I/ActivityManager﹕ Displayed akpuri.washington.edu.activityspy/.MainActivity: +406ms
+01-20 11:25:15.795    2177-2177/akpuri.washington.edu.activityspy E/MainActivity﹕ We’re going down, Captain!
